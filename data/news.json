@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "id": "news-next-session",
+      "title": "Upcoming Session",
+      "date": "June 25, 2025",
+      "image": "assets/images/news/next-session.webp",
+      "detailImage": "",
+      "description": "📅 Next Session: <strong>Wednesday, 25 June 2025</strong> 🕖 7:00 PM - 9:00 PM @ <strong>National Badminton Centre, MK8 9LA - Courts 4 & 6</strong> 🏸",
+      "expandable": true
+    },
+    {
+      "id": "news-mens-doubles-2025",
+      "title": "Sri & Rav, Men's Doubles Champions! 🏆",
+      "date": "June 7, 2025",
+      "image": "assets/images/news/rav-sri.webp",
+      "detailImage": "",
+      "description": "🎉 Huge congratulations to <strong>Sri & Rav</strong> for clinching the <strong>Men's Doubles Champion</strong> title at the <strong>Gemstars Summer Smash 2025</strong>! A spectacular performance in the final. Being 1 game down and Rav on 1 leg, they both produced a brilliant display to come out champions!!! 🥇🔥",
+      "expandable":true
+    },
+    {
+      "id": "news-mixed-doubles-2025",
+      "title": "Raj, Mixed Doubles Runners-Up! 🥈",
+      "date": "June 7, 2025",
+      "image": "assets/images/news/khin-raj.webp",
+      "detailImage": "",
+      "description": "👏 An outstanding performance by <strong>Raj</strong> secured the <strong>Runners-Up</strong> position in <strong>Mixed Doubles</strong> at the <strong>Gemstars Summer Smash 2025</strong>! 💪🏸"
+    },
+    {
+      "id": "yehlex-voted",
+      "title": "Team Chooses Yehlex again! 🗳️🏸",
+      "date": "June 1, 2025",
+      "image": "assets/images/news/yehlex.webp",
+      "detailImage": "",
+      "description": "🗳️ After a team-wide poll, <strong>Yehlex</strong> emerged as the chosen shuttle brand! Despite <strong>Airchy</strong>'s impressive flight, <strong>Yehlex</strong> wins on consistency and durability. Shipping delays and variability cost Airchy the crown. 👑"
+    },
+    {
+      "id": "prabhu-joins",
+      "title": "Prabhu Joins the Squad! 🎉🏸",
+      "date": "May 27, 2025",
+      "image": "assets/images/news/prabhu.webp",
+      "detailImage": "",
+      "description": "A huge welcome to <strong>Prabhu</strong>, our newest Cobra! 🐍 Looking forward to more epic midweek matchups! Let the rallies begin! 💪"
+    },
+    {
+      "id": "news-sri-mksm-winner",
+      "title": "Sri wins MKSM Doubles Championship! 🏆2025! 🎉🏸",
+      "date": "May 18, 2025",
+      "image": "assets/images/news/mksm.webp",
+      "detailImage": "",
+      "description": "Warmest congratulations to <strong>Sri</strong> on his well-deserved victory in the doubles championship at the MKSM 2025 tournament! 🏆💪"
+    },
+    {
+      "id": "airchy-tested",
+      "title": "Airchy Makes a Debut! ✈️🏸",
+      "date": "May 14, 2025",
+      "image": "assets/images/news/airchy.webp",
+      "detailImage": "",
+      "description": "We tried out <strong>Airchy</strong> shuttles and the team loved their flight and feel."
+    },
+    {
+      "id": "phyo-joins",
+      "title": "Phyo Joins Cobra Smash! 🙌🏸",
+      "date": "April 21, 2025",
+      "image": "assets/images/news/phyo.webp",
+      "detailImage": "",
+      "description": "A big Cobra Smash welcome to <strong>Phyo</strong>! 💥 Looking forward to thrilling games and unforgettable rallies every Wednesday! 🐍"
+    },   
+    {
+      "id": "shuttle-test-yehlex",
+      "title": "Shuttle Trials end with Yehlex 🚀🧐",
+      "date": "February 5, 2025",
+      "image": "assets/images/news/shuttles.webp",
+      "detailImage": "",
+      "description": "We tested a variety of shuttle brands including <strong>Kawasaki</strong>, <strong>Ashaway</strong>, <strong>Babolat</strong>, <strong>Perfly</strong>, and <strong>Victor</strong>. After a solid smash test, <strong>Yehlex</strong> emerged as the favourite among the team! 🏸👍"
+    }
+  ]
+}

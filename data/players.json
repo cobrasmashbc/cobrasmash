@@ -1,0 +1,36 @@
+{
+  "admins": [
+    {
+      "name": "Sri",
+      "iconClass": "fas fa-user-shield",
+      "role": "The Shogun Cobra",
+      "detail": "",
+      "image": "sri.webp",
+      "bio": "Key organizer and passionate player."
+    },
+    {
+      "name": "Shal",
+      "iconClass": "fas fa-user-cog",
+      "role": "The Cross Court King Cobra",
+      "detail": "",
+      "image": "shal.webp",
+      "bio": "Known for deceptive shots and court strategy."
+    }
+  ],
+  "members": [
+    { "name": "Adnan", "role": "The Serve Maestro", "detail": "", "image": "adnan.webp", "bio": "" },
+    { "name": "Amit", "role": "The Net Assasin", "detail": "", "image": "amit.webp", "bio": "" },
+    { "name": "Aziz", "role": "The Shifu", "detail": "", "image": "aziz.webp", "bio": "" },
+    { "name": "Chris", "role": "The Court Samurai", "detail": "", "image": "chris.webp", "bio": "" },
+    { "name": "Kal", "role": "The Net Ninja", "detail": "", "image": "kal.webp", "bio": "" },
+    { "name": "Phyo", "role": "The All-Court Wizard", "detail": "", "image": "phyo.webp", "bio": "" },
+    { "name": "Prabhu", "role": "The Master of Deception", "detail": "", "image": "prabhu.webp", "bio": "" },
+    { "name": "Rajat", "role": "The Tornado Smasher", "detail": "", "image": "raj.webp", "bio": "" },
+    { "name": "Ram", "role": "The Cross-Drop Specialist", "detail": "", "image": "ram.webp", "bio": "" },
+    { "name": "Rav", "role": "The Grand Master Smash", "detail": "", "image": "rav.webp", "bio": "" },
+    { "name": "Sridhar", "role": "The Backhand Blaster", "detail": "", "image": "sridhar.webp", "bio": "" },
+    { "name": "Steve", "role": "The Sensei Striker", "detail": "", "image": "steve.webp", "bio": "" },
+    { "name": "Steffan", "role": "The Icon", "detail": "", "image": "stef.webp", "bio": "" },
+    { "name": "Suraj", "role": "The Strikeback Warrior", "detail": "", "image": "suraj.webp", "bio": "" }
+  ]
+}
