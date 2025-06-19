@@ -1,4 +1,5 @@
-Great! Based on your detailed project structure, here's a **customized and professional `README.md`** that reflects the actual content and organization of your CobraSmash website repository.
+The entire CobraSmash website was designed and developed by Srikanth Gedela using the Vibe Coding.
+For project inquiries, collaboration, or technical details, feel free to get in touch.
 
 ---
 
